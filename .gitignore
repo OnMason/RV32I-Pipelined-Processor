@@ -1,0 +1,14 @@
+# Vivado project cruft — never commit these
+vivado_proj/
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+xsim.dir/
+webtalk*.jou
+webtalk*.log
