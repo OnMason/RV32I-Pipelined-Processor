@@ -7,7 +7,7 @@
 ![Simulation](https://img.shields.io/badge/sim-Verilator%20%7C%20Vivado%20XSim-orange)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-This repository started as a single-cycle RV32I-subset core written for UC Irvine EECS 31L. That version is preserved under the git tag [`v1.0-single-cycle`](../../tree/v1.0-single-cycle); `main` is now the pipelined redesign described here.
+This repository started as a single-cycle RV32I-subset core written for UC Irvine EECS 31L. That version is preserved on the [`single-cycle`](../../tree/single-cycle) branch; `main` is now the pipelined redesign described here.
 
 ---
 
